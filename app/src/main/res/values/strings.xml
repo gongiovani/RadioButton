@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RadioButton</string>
+    <string name="comida_preferida">Qual sua comida preferida?</string>
+    <string name="botao">Escolher</string>
+    <string name="comida_escolhida" />
+</resources>
